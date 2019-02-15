@@ -1,4 +1,4 @@
-# Simulacion-de-Fluidos
+# Simulacion de Fluidos.
 Crea un sistema de simulación de fluidos.
 
 ![Fluidos](https://github.com/AlfredoCU/Simulacion-de-Fluidos/blob/master/Img/0075.png)
